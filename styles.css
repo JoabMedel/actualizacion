@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;700;900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Barlow', sans-serif; 
+}
+.flexmenu {
+  display:flex;
+  justify-content: space-between;
+  align-items: center; 
+  background: white;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  position:relative;
+}
+.inline-block{
+  display: inline-block;
+}
+.paddingli{
+  padding: 10px;
+}
+.logo01 {
+  background-image: url(http://regaltheme.com/tf/multi/rm/rm/assets/img/logo-black.png);
+  width: 90px;
+  height: 90px;
+  background-repeat:no-repeat;
+}
+.title-intro {
+  text-align: center;
+  font-size: 30pt;
+  background: #f5f5f5;
+}
+.paddingintro{
+  padding: 180px 30px;
+}
+.card {
+  border-radius: 3px;
+  display: inline-block;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  width: 250px;
+  padding: 50px 10px;
+  margin-left: 25px;
+  margin-top: 25px;
+  background:white;
+}
+.centercards {
+  text-align: center;
+  background: #f5f5f5;
+}
+.centertext {
+  text-align: center;
+  margin-bottom: 1%;
+}
+.latestworks {
+  font-size: 18pt;
+  padding: 5% 25%;
+}
+.flexcollageimg01 {
+  display: flex;
+  justify-content: center;
+}
+.display-flexcollage {
+  display:flex;
+  justify-content: center;
+}
+.marginright-collage {
+  margin-right: 2%;
+}
+.marginbottom-collage {
+  margin-bottom: 7%;
+}
+.buttonload {
+  background:#59646ff0;
+  color:white;
+  padding: 1% 3%;
+  text-decoration:none;
+  text-align:center;
+  font-size: 15pt;
+  margin-top: 2%;
+}
+.displaybox-button {
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.testimonial-text {
+  text-align: center;
+  padding: 10% 30%;
+  font-size: 18pt;
+  background: #f5f5f5;
+  margin-top: 7%;
+}
+.cards-testimonial {
+  text-align: left;
+  background-color: white;
+  padding: 5% 5%;
+  font-size: 12pt;
+}
+.flex-testimonialcards {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+.margin-cardstestimonialR {
+  margin-right: 10%;
+}
+.margin-cardstestimonialL {
+  margin-left: 10%;
+}
+.font-JOAB {
+  font-weight: bold;
+}
+.font-developer {
+   color: #59646ff0;
+}
+.latestnews-text {
+ font-size: 18pt;
+ padding: 5% 25%;
+}
+.fontsize-small {
+  font-size: 12pt;
+}
+.flex-content {
+  display:flex;
+  justify-content: center;
+}
+.fontsize-normal {
+  font-size: 18pt;
+}
+.button-readmore {
+  background:#59646ff0;
+  color:white;
+  padding: 1% 5%;
+  text-decoration:none;
+  width: 18%;
+  text-align: center;
+  font-size: 10pt;
+  margin-top: 2%;
+}
+.margin-text01 {
+  width:390px;
+  height:340px;
+  margin-left: 3%;
+  margin-top: 4%;
+}
+.margin-text02 {
+  width:390px;
+  height:340px;
+  margin-right: 3%;
+  margin-top: 4%;
+}
+.footer-color {
+  background: black;
+  color: white;
+  padding: 5% 15%;
+}
+.flex-footer {
+  display: flex;
+  justify-content: center;
+}
+.content01-footer {
+  margin-left: 20%;
+  padding: 1%;
+}
+.content02-footer {
+  margin-left: 1%;
+  padding: 1%;
+}
+.logo-footer {
+ padding: 1%;
+}
+.positionrelative-footer {
+  position: absolute;
+}
+.copyright-font{
+  background: #59646ff0;
+  color: white;
+}
+.flex-copy {
+  display: flex;
+  justify-content: space-between;
+}
+.padding-copy {
+  padding:1% 1%;
+}
