@@ -30,11 +30,9 @@
       }
       .title-intro {
         text-align: center;
-        font-size: 30pt;
+        font-size: 18pt;
         background: #f5f5f5;
-      }
-      .paddingintro{
-        padding: 180px 30px;
+        padding-bottom: 5%;
       }
       .card {
         border-radius: 3px;
